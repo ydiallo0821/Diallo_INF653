@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Assignment Tracker</title>
+</head>
+<body>
+<h1>Assignment Tracker</h1>
